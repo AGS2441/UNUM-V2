@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UNUMSelfPwdReset/obj/Release/net6.0/UNUMSelfPwdReset.GeneratedMSBuildEditorConfig.editorconfig
+/UNUMSelfPwdReset/obj/Release/net6.0/UNUMSelfPwdReset.assets.cache
+/UNUMSelfPwdReset/obj/Debug/net6.0/UNUMSelfPwdReset.pdb
+/UNUMSelfPwdReset/obj/Debug/net6.0/UNUMSelfPwdReset.genruntimeconfig.cache
+/UNUMSelfPwdReset/obj/Debug/net6.0/UNUMSelfPwdReset.dll
+/UNUMSelfPwdReset/obj/Debug/net6.0/UNUMSelfPwdReset.csproj.FileListAbsolute.txt
+/UNUMSelfPwdReset/obj/Debug/net6.0/staticwebassets.pack.json
+/UNUMSelfPwdReset/obj/Debug/net6.0/staticwebassets.development.json
+/UNUMSelfPwdReset/obj/Debug/net6.0/staticwebassets.build.json
+/UNUMSelfPwdReset/bin/Debug/net6.0/UNUMSelfPwdReset.staticwebassets.runtime.json
+/UNUMSelfPwdReset/bin/Debug/net6.0/UNUMSelfPwdReset.pdb
+/UNUMSelfPwdReset/bin/Debug/net6.0/UNUMSelfPwdReset.dll
+/.vs/UNUM/v17/.suo
+/.vs/UNUM/config/applicationhost.config
+/.vs/slnx.sqlite
+/.vs/UNUM/FileContentIndex/e4257bda-6a01-427f-8410-b61370a7231d.vsidx
