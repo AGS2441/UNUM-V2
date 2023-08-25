@@ -54,7 +54,7 @@ namespace UNUMSelfPwdReset.Models
         //public string OldPassword { get; set; }
 
         [Required(ErrorMessage = "Password is required")]
-        [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^\da-zA-Z]).{6,22}$", ErrorMessage = "Password must be between 12 and 22 characters and contain one uppercase letter, one lowercase letter, one digit and one special character.")]
+        [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^\da-zA-Z]).{12,22}$", ErrorMessage = "Password must be between 12 and 22 characters and contain one uppercase letter, one lowercase letter, one digit and one special character.")]
         [DataType(DataType.Password)]
         //[StringLength(255, ErrorMessage = "Must be between 5 and 255 characters", MinimumLength  = 5)]
         public string NewPassword { get; set; }
